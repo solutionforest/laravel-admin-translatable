@@ -1,7 +1,8 @@
 laravel-admin translatable 多語言擴充包
 ======
 
-##### version v1.1.0
+##### version v1.2.0
+請更新新版 支持1.8.x
 
 在 [laravel-admin](https://laravel-admin.org) 框架中安装 1. 多語言Fields , 2. 多語言後台。
 
